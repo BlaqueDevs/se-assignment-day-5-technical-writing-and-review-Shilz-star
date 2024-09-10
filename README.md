@@ -4,7 +4,7 @@
 ## 1. How can understanding your audience’s expertise level (tech experts vs. regular folks) shape the way you present technical information?
   - Language and Terminology:
     Tech experts: You can use industry-specific jargon, acronyms, and assume a deeper understanding of technical concepts.
-    Regular folks: You should use simple, clear language, avoiding jargon and breaking down complex terms into layman’s explanations.
+    Regular folks: You should use simple, clear language, avoiding jargon and breaking down complex terms into layman’s explanations,
   - Depth of Detail:
     Tech experts: Provide detailed, in-depth explanations of how the system works, including technical nuances, algorithms, and code snippets.
     Regular folks: Focus more on the high-level functionality and benefits of the product, with less focus on the intricate details of how it works.
